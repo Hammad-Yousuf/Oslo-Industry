@@ -6,6 +6,7 @@
 }
 header{
     background: var(--blue);
+    padding: 4px 0;
 }
 .logo{
     width: 15em;
