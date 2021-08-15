@@ -6,7 +6,7 @@
 }
 header{
     background: var(--blue);
-    padding: 4px 0;
+    padding-bottom: 4px;
 }
 .logo{
     width: 15em;
@@ -14,9 +14,13 @@ header{
 nav{
     background: var(--gold);
 }
+.menu{
+    font-family: var(--font);
+    font-weight: 700;
+}
 .nav-link{
     color: var(--blue) !important;
-    font-weight: 600;
+    font-weight: 500;
     font-family: var(--font) !important;
     text-transform: uppercase;
     position: relative;
